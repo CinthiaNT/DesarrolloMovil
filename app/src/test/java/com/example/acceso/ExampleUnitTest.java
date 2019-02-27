@@ -1,4 +1,4 @@
-package com.example.accesovista;
+package com.example.acceso;
 
 import org.junit.Test;
 
